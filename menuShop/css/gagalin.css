@@ -1,0 +1,8 @@
+@font-face {
+    font-family: gagalin;
+    src: url("/menuShop/css/gagalin.otf") format("opentype");
+}
+container23 {
+    width: 50%;
+    margin-left: 350px !important;
+}
