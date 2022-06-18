@@ -1,8 +1,27 @@
 @font-face {
     font-family: gagalin;
-    src: url("/menuShop/css/gagalin.otf") format("opentype");
+    src: url('gagalin.otf');
 }
-container23 {
-    width: 50%;
-    margin-left: 350px !important;
+
+
+#titulo{
+    font-family: gagalin;
+    color:red;
+    font-size: 40px;
+    text-align: center;
+}
+
+#information{
+    border-color: black;
+}
+
+.info{
+    text-align: center;
+    
+
+}
+
+.mds{
+    width: 50% !important;
+    float: center !important;
 }
